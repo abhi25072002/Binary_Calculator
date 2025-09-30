@@ -20,6 +20,11 @@ Expressions are parsed using a **Finite State Machine (FSM)** and evaluated via 
 
 ---
 
+## 🖼️ Diagram  
+
+![ADTs for Binary Calculator](ADT.png)
+
+
 ## ⚙️  Data Structures Design  
 
 ### **NUMBER ADT**
@@ -42,11 +47,7 @@ Ensures correct decimal alignment before arithmetic operations.
 2. **Conversion:** Expressions are validated and prepared using **stacks**.  
 3. **Evaluation:** Operators popped & applied on NUMBER ADTs using linked list arithmetic.  
 
----
 
-## 🖼️ Project Diagram  
-
-![ADTs for Binary Calculator](ADTs.png)
 
 ---
 
